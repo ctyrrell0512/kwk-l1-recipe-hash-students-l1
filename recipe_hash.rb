@@ -25,7 +25,7 @@ def recipe_ingredients(perfect_10_recipe)
   return perfect_10_recipe
 end
 
-recipe_ingredients
+recipe_ingredients(perfect_10_recipe)
 
 
 
