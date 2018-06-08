@@ -34,6 +34,7 @@ def amount_of_chocolate_chips(perfect_10_recipe)
   return perfect_10_recipe.values[7]
 end
 
+amount_of_chocolate_chips(perfect_10_recipe)
 puts amount_of_chocolate_chips
 
 #3: Use `puts` to print out every ingredient and amount in the hash by iterating through the collection. You'll want to use the `each` method.
